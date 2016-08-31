@@ -296,7 +296,7 @@ The chain of enclosures for an exported function of a package: (top-down order)
 1. Imports environment: ('imports:pkgname');
 1. Namespace environment: ('namespace:pkgname');
 
-![](namespace.png)
+![](http://adv-r.had.co.nz/diagrams/environments.png/namespace.png)
 
 Figure: The chain of enclosures illustrated with `stats::sd()`.
 
